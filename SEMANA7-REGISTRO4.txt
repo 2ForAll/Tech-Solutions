@@ -1,0 +1,5 @@
+Idade = int (input("Qual é a sua idade: "))
+if Idade >= 18:
+     print("Você pode assistir ao filme.")
+else:
+    print("Desculpe, você não tem idade suficiente para assistir ao filme.")

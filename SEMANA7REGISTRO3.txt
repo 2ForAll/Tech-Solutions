@@ -1,0 +1,15 @@
+ATIVIDADE 1
+
+Estoque = float(input("Quantos produtos você deseja: "))
+if Estoque >= 10:
+    print("Produto disponível em estoque. Aproveite!")
+else:
+    print("Produto indisponível no momento. Volte mais tarde!")
+
+ATIVIDADE 2
+
+Média = float(input("Qual é a sua nota: "))
+if Média >=7 and Média <=10:
+     print("Parabéns! Você foi aprovado.")
+else:
+    print("Infelizmente, você não foi aprovado. Estude mais e tente novamente!")
